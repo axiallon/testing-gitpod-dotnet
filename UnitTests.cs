@@ -31,7 +31,7 @@ namespace Testing
         }
 
         [Test]
-        public void Test4() // test
+        public void Test4() // tests
         {
             List<Contact> contacts = AddressBook.FindContactsInCity("London");
             Assert.AreEqual(1, contacts.Count);
