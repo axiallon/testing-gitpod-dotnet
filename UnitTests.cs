@@ -5,10 +5,6 @@ namespace Testing
 {
     public class UnitTests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
 
         [Test]
         public void Test1()
@@ -42,7 +38,6 @@ namespace Testing
             Contact contact = contacts[0];
             Assert.AreEqual("John", contact.FirstName);
         }
-
 
     }
 }
