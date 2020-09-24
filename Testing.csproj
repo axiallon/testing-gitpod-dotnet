@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>testing_gitpod_dotnet</RootNamespace>
+    <RootNamespace>Testing</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
