@@ -1,5 +1,9 @@
 image: gitpod/workspace-dotnet
 
+tasks:
+  - before: dotnet restore
+    command: dotnet build
+
 vscode:
   extensions:
     - ms-vscode.csharp@1.21.12:kw8SkO8+aVTSFug281WfQQ==
