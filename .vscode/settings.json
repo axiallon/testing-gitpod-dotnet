@@ -1,0 +1,6 @@
+{
+    "workbench.iconTheme": "theia-file-icons",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "java.project.importOnFirstTimeStartup": "automatic",
+    "omnisharp.path": "latest"
+}
